@@ -17,7 +17,7 @@ My priorities are clear code, reproducible notebooks, careful validation and hon
 
 ## Featured project
 
-### [Interactive Calculator in Python](https://github.com/Andrei09071108/modulo1)
+### [Interactive Calculator in Python]([https://github.com/Andrei09071108/modulo1](https://github.com/Andrei09071108/ebac-python-fundamentals))
 
 Python Foundations assessment completed with **full marks** in EBAC's Data Science programme.
 
