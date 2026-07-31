@@ -1,63 +1,41 @@
 # Hi, I'm Andrei 👋
 
-### Data Science Student at EBAC · E-commerce & Market Research · Business Analytics
+### Data Science student at EBAC | Python and Data Analysis
 
-I am building a practical Data Science portfolio focused on turning raw data into clear business insights and better commercial decisions.
+I am building a practical, transparent portfolio that documents my progression from programming fundamentals to complete Data Science projects.
 
-My main interests are e-commerce, consumer behaviour, market research, business intelligence and data-driven strategy.
+My priorities are clear code, reproducible notebooks, careful validation and honest communication about what each project demonstrates.
 
----
+## Current focus
 
-## About me
+- Python fundamentals
+- Jupyter Notebook
+- Programming logic and problem-solving
+- Data analysis foundations
+- Input validation and error handling
+- Next steps: Pandas, SQL, data visualisation and statistics
 
-* 🎓 Data Science student at EBAC
-* 📊 Building practical projects with real datasets
-* 🛒 Interested in e-commerce, consumer insights and market analysis
-* 🧠 Developing skills in Python, SQL, statistics, data visualisation and machine learning
-* 🌍 Open to remote data and analytics opportunities
+## Featured project
 
----
+### [Interactive Calculator in Python](https://github.com/Andrei09071108/modulo1)
 
-## Portfolio roadmap
+Python Foundations assessment completed with **full marks** in EBAC's Data Science programme.
 
-| Project                     | Business focus                                           | Core skills                             | Status      |
-| --------------------------- | -------------------------------------------------------- | --------------------------------------- | ----------- |
-| UK Online Retail Analysis   | Sales performance, product demand and customer behaviour | Python, Pandas, EDA, visualisation      | In progress |
-| UK Retail Sales Forecasting | Retail trends, seasonality and business forecasting      | Time series, Python, statistics         | Planned     |
-| UK Property Market Analysis | Regional pricing patterns and market insights            | Data cleaning, visualisation, SQL       | Planned     |
-| EBAC Data Science Capstone  | End-to-end business problem solving                      | Data analysis, modelling, communication | Planned     |
+The project demonstrates seven arithmetic operations, input validation, zero-division handling, control flow, lists and operation history in a documented Jupyter Notebook.
 
----
+**Skills:** Python · Jupyter Notebook · Control Flow · Error Handling · Lists
 
-## Current learning focus
+## Portfolio principles
 
-* Python for Data Analysis
-* SQL and Databases
-* Exploratory Data Analysis
-* Statistics for Decision-Making
-* Data Visualisation
-* Machine Learning Fundamentals
-* Business Storytelling with Data
+Every project in this portfolio will aim to include:
 
----
-
-## How I approach projects
-
-For every portfolio project, I aim to document:
-
-1. The business problem
-2. The dataset and its source
-3. Data cleaning and assumptions
-4. Exploratory analysis and visualisations
-5. Key findings
-6. Practical recommendations
-7. Limitations and next steps
-8. Reproducibility instructions
-
----
+1. A clear objective
+2. Documented assumptions
+3. Readable and organised code
+4. Reproducible execution instructions
+5. Validation or test cases
+6. Honest limitations and next steps
 
 ## Goal
 
-To build a portfolio of clear, well-documented and business-oriented data projects that demonstrate analytical thinking, technical development and practical decision-making.
-
-Thanks for visiting my profile.
+To develop the technical and analytical skills required to solve real problems with data and communicate results clearly.
